@@ -1,0 +1,7 @@
+{
+  "name": "krknth/reaction",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+}
