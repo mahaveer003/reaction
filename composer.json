@@ -1,5 +1,5 @@
 {
-  "name": "krknth/reaction",
+  "name": "valuebound/reaction",
   "type": "library",
   "description": "A Composer library installer, for drupal reaction module.",
   "require": {
